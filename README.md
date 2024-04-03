@@ -1,12 +1,12 @@
 
 
 <p align="center">
-  <img src="[https://your-profile-image-url.jpg](https://drive.google.com/file/d/177pSGhZlE1rufCHirX9mZ4dibHIL2hyx/view?usp=drive_link)" alt="Tirumalasetty Ashok" width="200" />
+  <img src="(https://drive.google.com/file/d/177pSGhZlE1rufCHirX9mZ4dibHIL2hyx/view?usp=drive_link)" alt="Tirumalasetty Ashok" width="200" />
 </p>
 
 # Hi there! 👋 I'm Tirumalasetty Ashok
 
-I'm an Electronics and Communication Engineering (ECE) graduate with a passion for core jobs and hardware design. Welcome to my GitHub profile!
+I'm an Electronics and Communication Engineering (ECE) graduate passionate about core jobs and hardware design. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -17,7 +17,7 @@ I'm an Electronics and Communication Engineering (ECE) graduate with a passion f
 💼 Experienced in several projects, including:
 - **Automatic Grain Soaking System**: Developed a microcontroller-based system to automate the grain soaking process.
 - **ALU using Verilog**: Designed a high-performance Arithmetic Logic Unit (ALU) using Verilog for digital logic circuits.
-- **Microwave Oven Design**: Contributed to the design and development of a prototype microwave oven.
+- **Microwave Oven Design**: Contributed to designing and developing a prototype microwave oven.
 - **Home Automation with Blynk IoT App**: Implemented smart home features using the Blynk IoT platform for remote control and monitoring.
 
 📫 Reach me via email at [ashoktirumalasetty77@gmail.com](ashoktirumalasetty77@gmail.com).
