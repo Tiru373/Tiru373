@@ -1,8 +1,9 @@
 
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/177pSGhZlE1rufCHirX9mZ4dibHIL2hyx/view?usp=drive_link" alt="Tirumalasetty Ashok" width="200" />
+  <img src="https://drive.google.com/file/d/177pSGhZlE1rufCHirX9mZ4dibHIL2hyx/view?usp=sharing" alt="Tirumalasetty Ashok" width="200" />
 </p>
+
 
 # Hi there! 👋 I'm Tirumalasetty Ashok
 
