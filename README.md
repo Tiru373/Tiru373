@@ -1,10 +1,4 @@
 
-
-<p align="center">
-  <img src="https://drive.google.com/file/d/177pSGhZlE1rufCHirX9mZ4dibHIL2hyx/view?usp=sharing" alt="Tirumalasetty Ashok" width="200" />
-</p>
-
-
 # Hi there! 👋 I'm Tirumalasetty Ashok
 
 I'm an Electronics and Communication Engineering (ECE) graduate passionate about core jobs and hardware design. Welcome to my GitHub profile!
@@ -21,20 +15,20 @@ I'm an Electronics and Communication Engineering (ECE) graduate passionate about
 - **Microwave Oven Design**: Contributed to designing and developing a prototype microwave oven.
 - **Home Automation with Blynk IoT App**: Implemented smart home features using the Blynk IoT platform for remote control and monitoring.
 
-📫 Reach me via email at [ashoktirumalasetty77@gmail.com](ashoktirumalasetty77@gmail.com).
+📫 Reach me via email at [ashoktirumalasetty77@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl).
 
 ## My Projects
 
 Explore some of my featured projects:
 
-- [**Automatic Grain Soaking System**](link): Automating the grain soaking process for efficiency and convenience.
-- [**ALU using Verilog**](link): Designing a versatile Arithmetic Logic Unit (ALU) for various computational tasks.
-- [**Microwave Oven Design**](link): Developing a prototype microwave oven with advanced features and safety measures.
-- [**Home Automation with Blynk IoT App**](link): Creating a smart home system for seamless control and monitoring.
+- [**Automatic Grain Soaking System**](https://github.com/Tiru373/Automatic-grain-soaking-system/): Automating the grain soaking process for efficiency and convenience.
+- [**ALU using Verilog**](https://github.com/Tiru373/ALU/): Designing a versatile Arithmetic Logic Unit (ALU) for various computational tasks.
+- [**Microwave Oven Design**](https://github.com/Tiru373/microwave-oven/): Developing a prototype microwave oven with advanced features and safety measures.
+- [**Home Automation with Blynk IoT App**](https://github.com/Tiru373/home-automation-uing-blynk/): Creating a smart home system for seamless control and monitoring.
 
 ## Get in Touch
 
-- LinkedIn: [Tirumalasetty Ashok]([https://www.linkedin.com/in/tirumalasetty-ashok/](https://www.linkedin.com/in/ashok-tirumalasetty-7938041ba/))
+- LinkedIn: [Tirumalasetty Ashok](https://www.linkedin.com/in/ashok-tirumalasetty-7938041ba/)
 - Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
 
 ## GitHub Stats
